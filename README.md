@@ -4,7 +4,7 @@ title: Video Forensics
 Author: SHUBHAM JAISWAL AND VAIBHAV RATHORE
 --- -->
 # <center>Video Forensics</center>
-## <center> SHUBHAM JAISWAL AND VAIBHAV RATHORE </center> 
+## <center> SHUBHAM JAISWAL </center> 
 ## Aim:
 Location of the manipulations among the real and forged video sequences.
 
